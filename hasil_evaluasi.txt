@@ -1,0 +1,20 @@
+HASIL EVALUASI MODEL DECISION TREE
+==================================
+
+Recall (Macro): 0.8333
+F1-Score (Macro): 0.8312
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+         0.0       0.00      0.00      0.00         1
+         1.0       0.83      1.00      0.91        10
+         2.0       1.00      0.83      0.91         6
+         2.5       1.00      1.00      1.00         4
+         3.0       1.00      1.00      1.00         3
+         3.5       1.00      1.00      1.00         2
+         4.0       1.00      1.00      1.00         4
+
+    accuracy                           0.93        30
+   macro avg       0.83      0.83      0.83        30
+weighted avg       0.91      0.93      0.92        30
