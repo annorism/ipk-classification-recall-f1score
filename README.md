@@ -55,25 +55,25 @@ The following visualizations are generated from the classification model.
 
 Displays the comparison between actual and predicted GPA categories.
 
-![Confusion Matrix](output/confusion_matrix.png)
+![Confusion Matrix](outputs/confusion_matrix.png)
 
 ### 2. Feature Importance
 
 Shows the relative importance of each feature used by the Decision Tree model.
 
-![Feature Importance](output/feature_importance.png)
+![Feature Importance](outputs/feature_importance.png)
 
 ### 3. Decision Tree Visualization
 
 Displays the decision-making structure of the trained classification model.
 
-![Decision Tree](output/decision_tree.png)
+![Decision Tree](outputs/decision_tree.png)
 
 ### 4. Evaluation Report
 
 The detailed evaluation results, including Recall, F1-Score, Precision, and classification metrics, are available here:
 
-[View Evaluation Report](output/hasil_evaluasi.txt)
+[View Evaluation Report](outputs/hasil_evaluasi.txt)
 
 ## 📁 Project Structure
 
